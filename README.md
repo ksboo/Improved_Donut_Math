@@ -32,3 +32,13 @@ To run the donut animation, follow these steps:
 - `main.py`: Entry point for running the donut animation. Prompts the user to input `x` and `y` values and runs the appropriate Python files based on the input.
 - `donut_normal.py`: Python script containing the code for generating the ASCII art representation of the rotating donut.
 - Other Python files: Additional Python scripts that are run based on user input.
+
+Contributors
+------------
+
+- Khushboo Shrivastava
+
+License
+-------
+
+This project is licensed under the [MIT License](LICENSE).
